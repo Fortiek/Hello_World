@@ -1,2 +1,4 @@
 # Hello_World
-Learning repositories
+Learning repositories<br>
+Making a commit<br>
+Needing to remember the importance of comments on everything
